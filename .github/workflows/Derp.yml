@@ -11,8 +11,8 @@ on:
   
 env:
   GIT_GITHUB_TOKEN: "${{secrets.GIT_GITHUB_TOKEN}}"
-  GIT_CONFIG_EMAIL: "115030673+Scripete@users.noreply.github.com"
-  GIT_CONFIG_USERNAME: "Scripete"
+  GIT_CONFIG_EMAIL: "132572759+anzudesuka@users.noreply.github.com"
+  GIT_CONFIG_USERNAME: "anzudesuka"
   WORKING_BRANCH: "DerpFest-13"
 
 jobs:
